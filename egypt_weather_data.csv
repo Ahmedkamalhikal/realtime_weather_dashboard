@@ -1,0 +1,67 @@
+timestamp,city,temperature,humidity,pressure,wind_speed,weather
+2026-03-13 04:58:38,Cairo,14.42,82,1012,6.69,overcast clouds
+2026-03-13 04:58:39,Alexandria,12.98,82,1014,2.57,clear sky
+2026-03-13 04:58:39,Giza,14.41,60,1012,6.4,overcast clouds
+2026-03-13 04:58:39,Mansoura,12.97,75,1014,3.0,broken clouds
+2026-03-13 04:58:39,Tanta,12.0,81,1014,3.94,overcast clouds
+2026-03-13 04:58:39,Aswan,19.61,30,1011,1.54,clear sky
+2026-03-13 05:03:39,Cairo,14.42,82,1012,6.69,overcast clouds
+2026-03-13 05:03:39,Alexandria,12.98,82,1014,2.57,clear sky
+2026-03-13 05:03:39,Giza,14.41,60,1012,6.4,overcast clouds
+2026-03-13 05:03:39,Mansoura,12.97,75,1014,3.0,broken clouds
+2026-03-13 05:03:39,Tanta,12.0,81,1014,3.94,overcast clouds
+2026-03-13 05:03:39,Aswan,19.61,30,1011,1.54,clear sky
+2026-03-13 05:08:39,Cairo,15.42,77,1012,8.23,sand
+2026-03-13 05:08:40,Alexandria,12.98,82,1014,2.57,clear sky
+2026-03-13 05:08:40,Giza,15.41,60,1012,6.4,overcast clouds
+2026-03-13 05:08:40,Mansoura,12.97,75,1014,3.0,broken clouds
+2026-03-13 05:08:40,Tanta,12.0,81,1014,3.94,overcast clouds
+2026-03-13 05:08:40,Aswan,22.71,28,1011,2.18,clear sky
+2026-03-13 05:09:59,Cairo,15.42,77,1012,8.23,sand
+2026-03-13 05:09:59,Alexandria,14.85,71,1014,5.97,broken clouds
+2026-03-13 05:09:59,Giza,15.41,60,1012,6.4,overcast clouds
+2026-03-13 05:09:59,Mansoura,12.97,75,1014,3.0,broken clouds
+2026-03-13 05:09:59,Tanta,12.0,81,1014,3.94,overcast clouds
+2026-03-13 05:10:00,Aswan,22.71,28,1011,2.18,clear sky
+2026-03-13 05:09:59,Cairo,15.42,77,1012,8.23,sand
+2026-03-13 05:09:59,Alexandria,14.85,71,1014,5.97,broken clouds
+2026-03-13 05:09:59,Giza,15.41,60,1012,6.4,overcast clouds
+2026-03-13 05:09:59,Mansoura,12.97,75,1014,3.0,broken clouds
+2026-03-13 05:10:00,Tanta,12.0,81,1014,3.94,overcast clouds
+2026-03-13 05:10:00,Aswan,22.71,28,1011,2.18,clear sky
+2026-03-13 05:10:53,Cairo,15.42,77,1012,8.23,sand
+2026-03-13 05:10:53,Alexandria,14.85,71,1014,5.97,broken clouds
+2026-03-13 05:10:53,Giza,15.41,60,1012,6.4,overcast clouds
+2026-03-13 05:10:53,Mansoura,12.97,75,1014,3.0,broken clouds
+2026-03-13 05:10:53,Tanta,12.0,81,1014,3.94,overcast clouds
+2026-03-13 05:10:53,Aswan,22.71,28,1011,2.18,clear sky
+2026-03-13 05:15:00,Cairo,15.42,77,1012,8.23,sand
+2026-03-13 05:15:00,Alexandria,14.85,71,1014,5.97,broken clouds
+2026-03-13 05:15:00,Giza,15.41,60,1012,6.4,overcast clouds
+2026-03-13 05:15:00,Mansoura,12.97,75,1014,3.0,broken clouds
+2026-03-13 05:15:00,Tanta,12.0,81,1014,3.94,overcast clouds
+2026-03-13 05:15:00,Aswan,22.71,28,1011,2.18,clear sky
+2026-03-13 05:15:54,Cairo,15.42,77,1012,8.23,sand
+2026-03-13 05:15:54,Alexandria,14.85,71,1014,5.97,broken clouds
+2026-03-13 05:15:54,Giza,15.41,60,1012,6.4,overcast clouds
+2026-03-13 05:15:54,Mansoura,12.97,75,1014,3.0,broken clouds
+2026-03-13 05:15:54,Tanta,12.0,81,1014,3.94,overcast clouds
+2026-03-13 05:15:54,Aswan,22.71,28,1011,2.18,clear sky
+2026-03-13 05:17:33,Cairo,15.42,77,1012,8.23,sand
+2026-03-13 05:17:34,Alexandria,14.85,71,1014,5.97,broken clouds
+2026-03-13 05:17:34,Giza,15.41,60,1012,6.4,overcast clouds
+2026-03-13 05:17:34,Mansoura,12.97,75,1014,3.0,broken clouds
+2026-03-13 05:17:34,Tanta,12.0,81,1014,3.94,overcast clouds
+2026-03-13 05:17:34,Aswan,22.71,28,1011,2.18,clear sky
+2026-03-13 05:17:39,Cairo,15.42,77,1012,8.23,sand
+2026-03-13 05:17:39,Alexandria,14.85,71,1014,5.97,broken clouds
+2026-03-13 05:17:39,Giza,15.41,60,1012,6.4,overcast clouds
+2026-03-13 05:17:39,Mansoura,12.97,75,1014,3.0,broken clouds
+2026-03-13 05:17:39,Tanta,12.0,81,1014,3.94,overcast clouds
+2026-03-13 05:17:39,Aswan,22.71,28,1011,2.18,clear sky
+2026-03-13 05:21:24,Cairo,15.42,77,1012,8.23,sand
+2026-03-13 05:21:24,Alexandria,14.85,71,1014,5.97,broken clouds
+2026-03-13 05:21:24,Giza,15.41,60,1012,6.4,overcast clouds
+2026-03-13 05:21:24,Mansoura,12.98,75,1014,3.0,broken clouds
+2026-03-13 05:21:24,Tanta,12.0,81,1014,3.94,overcast clouds
+2026-03-13 05:21:24,Aswan,22.71,28,1011,2.18,clear sky
