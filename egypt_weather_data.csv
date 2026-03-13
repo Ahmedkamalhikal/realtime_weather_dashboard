@@ -137,3 +137,9 @@ timestamp,city,temperature,humidity,pressure,wind_speed,weather
 2026-03-13 05:51:31,Mansoura,16.92,57,1014,5.77,broken clouds
 2026-03-13 05:51:32,Tanta,16.17,60,1014,5.98,overcast clouds
 2026-03-13 05:51:32,Aswan,20.61,28,1011,3.6,clear sky
+2026-03-13 05:52:46,Cairo,15.42,77,1013,8.23,sand
+2026-03-13 05:52:46,Alexandria,11.98,87,1014,1.54,clear sky
+2026-03-13 05:52:47,Giza,15.41,50,1013,6.16,overcast clouds
+2026-03-13 05:52:47,Mansoura,16.92,57,1014,5.77,broken clouds
+2026-03-13 05:52:47,Tanta,16.17,60,1014,5.98,overcast clouds
+2026-03-13 05:52:47,Aswan,20.61,28,1011,3.6,clear sky
